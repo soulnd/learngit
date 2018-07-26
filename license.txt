@@ -2,3 +2,4 @@ test
 工作区
 版本库
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
