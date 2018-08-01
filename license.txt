@@ -8,3 +8,4 @@ Test git stash1.
 
 Test several people's cooperation.
 set exit=1
+set exit=2
